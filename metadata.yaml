@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2020
     wikipedia: https://en.wikipedia.org/wiki/Alfred_John_Church
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41471#Callias--A-Tale-of-the-Fall-of-Athens
 gutenberg_issued: '2012-11-24'
 gutenberg_type: Text
 identifiers:
